@@ -1,0 +1,13 @@
+package com.TurnoJava.demo;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class TurnoCrudJavaApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(TurnoCrudJavaApplication.class, args);
+	}
+
+}
